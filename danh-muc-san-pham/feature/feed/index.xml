@@ -1,3 +1,13 @@
+<br />
+<b>Warning</b>:  Attempt to read property "post_author" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>393</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_date" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>396</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_date_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>397</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_modified" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>398</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_modified_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>399</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -12,7 +22,7 @@
 	<atom:link href="https://hazhtaru.github.io/mywordpress/danh-muc-san-pham/feature/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hazhtaru.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Fri, 23 Sep 2022 16:08:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Oct 2022 15:03:01 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,70 +30,49 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>TABLE LAMP 07882</title>
-		<link>https://hazhtaru.github.io/mywordpress/san-pham/table-lamp-07882/</link>
-					<comments>https://hazhtaru.github.io/mywordpress/san-pham/table-lamp-07882/#respond</comments>
+		<title>feature</title>
+		<link></link>
 		
-		<dc:creator><![CDATA[lyducloi]]></dc:creator>
-		<pubDate>Fri, 23 Sep 2022 16:07:58 +0000</pubDate>
-				<guid isPermaLink="false">https://hazhtaru.github.io/mywordpress/?post_type=product&#038;p=817</guid>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate></pubDate>
+				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[Hiển thị tất cả 4 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị tất cả 4 kết quả</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-805 status-publish first instock product_cat-feature has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/desk-system-06093/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/09/desk005-300x300-2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">DESK SYSTEM 06093</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>321.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/desk-system-06093/?add-to-cart=805" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="805" data-product_sku="" aria-label="Thêm &ldquo;DESK SYSTEM 06093&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-804 status-publish instock product_cat-feature has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/office-chair-36584/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/09/chair006-300x300-2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">OFFICE CHAIR 36584</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>650.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/office-chair-36584/?add-to-cart=804" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="804" data-product_sku="" aria-label="Thêm &ldquo;OFFICE CHAIR 36584&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-816 status-publish instock product_cat-feature has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/outdoor-table-09508/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Giảm giá!</span>
+	<img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/09/table001-300x300-2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">OUTDOOR TABLE 09508</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>350.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>280.00</bdi></span></ins></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/outdoor-table-09508/?add-to-cart=816" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="816" data-product_sku="" aria-label="Thêm &ldquo;OUTDOOR TABLE 09508&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-817 status-publish last instock product_cat-feature has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/table-lamp-07882/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/09/lamp002-300x300-2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">TABLE LAMP 07882</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>400.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/table-lamp-07882/?add-to-cart=817" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="817" data-product_sku="" aria-label="Thêm &ldquo;TABLE LAMP 07882&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div>]]></content:encoded>
 					
-					<wfw:commentRss>https://hazhtaru.github.io/mywordpress/san-pham/table-lamp-07882/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>OUTDOOR TABLE 09508</title>
-		<link>https://hazhtaru.github.io/mywordpress/san-pham/outdoor-table-09508/</link>
-					<comments>https://hazhtaru.github.io/mywordpress/san-pham/outdoor-table-09508/#respond</comments>
-		
-		<dc:creator><![CDATA[lyducloi]]></dc:creator>
-		<pubDate>Fri, 23 Sep 2022 16:07:19 +0000</pubDate>
-				<guid isPermaLink="false">https://hazhtaru.github.io/mywordpress/?post_type=product&#038;p=816</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://hazhtaru.github.io/mywordpress/san-pham/outdoor-table-09508/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>DESK SYSTEM 06093</title>
-		<link>https://hazhtaru.github.io/mywordpress/san-pham/desk-system-06093/</link>
-					<comments>https://hazhtaru.github.io/mywordpress/san-pham/desk-system-06093/#respond</comments>
-		
-		<dc:creator><![CDATA[lyducloi]]></dc:creator>
-		<pubDate>Fri, 23 Sep 2022 16:06:15 +0000</pubDate>
-				<guid isPermaLink="false">https://hazhtaru.github.io/mywordpress/?post_type=product&#038;p=805</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://hazhtaru.github.io/mywordpress/san-pham/desk-system-06093/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>OFFICE CHAIR 36584</title>
-		<link>https://hazhtaru.github.io/mywordpress/san-pham/office-chair-36584/</link>
-					<comments>https://hazhtaru.github.io/mywordpress/san-pham/office-chair-36584/#respond</comments>
-		
-		<dc:creator><![CDATA[lyducloi]]></dc:creator>
-		<pubDate>Fri, 23 Sep 2022 16:04:40 +0000</pubDate>
-				<guid isPermaLink="false">https://hazhtaru.github.io/mywordpress/?post_type=product&#038;p=804</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://hazhtaru.github.io/mywordpress/san-pham/office-chair-36584/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

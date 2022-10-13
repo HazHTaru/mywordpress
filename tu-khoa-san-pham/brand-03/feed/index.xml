@@ -1,0 +1,84 @@
+<br />
+<b>Warning</b>:  Attempt to read property "post_author" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>393</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_date" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>396</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_date_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>397</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_modified" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>398</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_modified_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>399</b><br />
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Brand 03 &#8211; My WordPress</title>
+	<atom:link href="https://hazhtaru.github.io/mywordpress/tu-khoa-san-pham/brand-03/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hazhtaru.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 13 Oct 2022 15:03:01 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Brand 03</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate></pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Hiển thị tất cả 5 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị tất cả 5 kết quả</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-1063 status-publish first instock product_cat-backyard-play product_cat-garden product_cat-kids-playroom product_tag-brand-03 product_tag-brand-04 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/backyard-playhouse-for-kid/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/42.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Backyard Playhouse for Kid</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>450.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/backyard-playhouse-for-kid/?add-to-cart=1063" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1063" data-product_sku="0042" aria-label="Thêm &ldquo;Backyard Playhouse for Kid&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1082 status-publish instock product_cat-bedroom product_cat-kitchen product_cat-lighting product_cat-living-room product_tag-brand-03 product_tag-brand-04 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/basics-adjustable-table-lamp/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/4.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Basics Adjustable Table Lamp</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>30.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/basics-adjustable-table-lamp/?add-to-cart=1082" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1082" data-product_sku="0089" aria-label="Thêm &ldquo;Basics Adjustable Table Lamp&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1067 status-publish instock product_cat-bedding product_cat-bedroom product_cat-living-room product_cat-nursery-furniture product_tag-brand-03 product_tag-brand-04 has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/bed-full-set-from-italia/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Giảm giá!</span>
+	<img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/18.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Bed Full Set from Italia</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>599.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>499.00</bdi></span></ins></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/bed-full-set-from-italia/?add-to-cart=1067" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1067" data-product_sku="0084" aria-label="Thêm &ldquo;Bed Full Set from Italia&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1084 status-publish last instock product_cat-fencing-flooring product_cat-garden product_cat-lighting product_cat-organization product_tag-brand-03 product_tag-brand-04 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/garden-umbrella-outdoor/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/57.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Garden Umbrella Outdoor</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>30.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/garden-umbrella-outdoor/?add-to-cart=1084" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1084" data-product_sku="0028" aria-label="Thêm &ldquo;Garden Umbrella Outdoor&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1056 status-publish first instock product_cat-heating-cooling product_cat-kitchen-appliances product_tag-brand-03 product_tag-brand-04 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/professional-microwave-oven/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/52.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Professional Microwave Oven</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>250.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/professional-microwave-oven/?add-to-cart=1056" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1056" data-product_sku="0008" aria-label="Thêm &ldquo;Professional Microwave Oven&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

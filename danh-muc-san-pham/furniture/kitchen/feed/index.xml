@@ -1,0 +1,78 @@
+<br />
+<b>Warning</b>:  Attempt to read property "post_author" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>393</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_date" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>396</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_date_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>397</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_modified" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>398</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_modified_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>399</b><br />
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kitchen &#8211; My WordPress</title>
+	<atom:link href="https://hazhtaru.github.io/mywordpress/danh-muc-san-pham/furniture/kitchen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hazhtaru.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 13 Oct 2022 15:03:01 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Kitchen</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate></pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Hiển thị tất cả 4 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị tất cả 4 kết quả</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-987 status-publish first instock product_cat-garden product_cat-kitchen product_cat-living-room product_cat-offices product_cat-outdoor-decor product_tag-brand-05 product_tag-brand-06 has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/bar-chair-with-wood-legs-sao-chep/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Bar Chair With Wood Legs</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>50.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/bar-chair-with-wood-legs-sao-chep/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="987" data-product_sku="0001" aria-label="Lựa chọn cho &ldquo;Bar Chair With Wood Legs&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
+<li class="product type-product post-1082 status-publish instock product_cat-bedroom product_cat-kitchen product_cat-lighting product_cat-living-room product_tag-brand-03 product_tag-brand-04 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/basics-adjustable-table-lamp/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/4.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Basics Adjustable Table Lamp</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>30.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/basics-adjustable-table-lamp/?add-to-cart=1082" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1082" data-product_sku="0089" aria-label="Thêm &ldquo;Basics Adjustable Table Lamp&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-954 status-publish instock product_cat-heating-cooling product_cat-kitchen product_cat-kitchen-appliances product_tag-brand-01 product_tag-brand-02 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/30-450x450-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Hand Mixer Electric, 250W</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>60.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w/?add-to-cart=954" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="954" data-product_sku="0040" aria-label="Thêm &ldquo;Hand Mixer Electric, 250W&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1083 status-publish last instock product_cat-bedroom product_cat-garden product_cat-kitchen product_cat-lighting product_tag-brand-01 product_tag-brand-02 product_tag-brand-07 product_tag-brand-08 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/modern-hanging-lamp-black/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Modern Hanging Lamp, Black</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>56.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/modern-hanging-lamp-black/?add-to-cart=1083" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1083" data-product_sku="0097" aria-label="Thêm &ldquo;Modern Hanging Lamp, Black&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

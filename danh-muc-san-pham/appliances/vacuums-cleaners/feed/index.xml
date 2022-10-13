@@ -1,0 +1,84 @@
+<br />
+<b>Warning</b>:  Attempt to read property "post_author" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>393</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_date" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>396</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_date_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>397</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_modified" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>398</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_modified_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>399</b><br />
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vacuums &amp; Cleaners &#8211; My WordPress</title>
+	<atom:link href="https://hazhtaru.github.io/mywordpress/danh-muc-san-pham/appliances/vacuums-cleaners/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hazhtaru.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 13 Oct 2022 15:03:01 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Vacuums &#038; Cleaners</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate></pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Hiển thị tất cả 5 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị tất cả 5 kết quả</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-1057 status-publish first instock product_cat-kitchen-appliances product_cat-vacuums-cleaners product_cat-washers-dryers product_tag-brand-05 product_tag-brand-06 has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/6-in-1-espresso-machine/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+	<span class="onsale">Giảm giá!</span>
+	<img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/29.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">6-in-1 Espresso Machine</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>150.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>90.00</bdi></span></ins></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/6-in-1-espresso-machine/?add-to-cart=1057" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1057" data-product_sku="0056" aria-label="Thêm &ldquo;6-in-1 Espresso Machine&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1055 status-publish instock product_cat-kitchen-appliances product_cat-vacuums-cleaners product_cat-washers-dryers product_tag-brand-07 product_tag-brand-08 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/electric-double-oven-range/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/16-450x450-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Electric Double Oven Range</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>140.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/electric-double-oven-range/?add-to-cart=1055" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1055" data-product_sku="0021" aria-label="Thêm &ldquo;Electric Double Oven Range&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-982 status-publish instock product_cat-vacuums-cleaners product_cat-washers-dryers product_tag-brand-07 product_tag-brand-08 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/hair-dryer-multiple-speed/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/53-450x450-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Hair Dryer Multiple Speed</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>100.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/hair-dryer-multiple-speed/?add-to-cart=982" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="982" data-product_sku="0058" aria-label="Thêm &ldquo;Hair Dryer Multiple Speed&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1054 status-publish last instock product_cat-heating-cooling product_cat-vacuums-cleaners product_tag-brand-01 product_tag-brand-02 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/microwave-oven-from-italia/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/59-450x450-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Microwave Oven from Italia</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>250.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/microwave-oven-from-italia/?add-to-cart=1054" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1054" data-product_sku="0032" aria-label="Thêm &ldquo;Microwave Oven from Italia&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1053 status-publish first instock product_cat-vacuums-cleaners product_cat-washers-dryers product_tag-brand-05 product_tag-brand-06 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/mx20-front-load-washer/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/54.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">MX20 Front Load Washer</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>450.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/mx20-front-load-washer/?add-to-cart=1053" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1053" data-product_sku="0041" aria-label="Thêm &ldquo;MX20 Front Load Washer&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

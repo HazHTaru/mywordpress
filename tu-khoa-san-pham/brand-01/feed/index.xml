@@ -1,0 +1,94 @@
+<br />
+<b>Warning</b>:  Attempt to read property "post_author" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>393</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_date" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>396</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_date_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>397</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_modified" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>398</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_modified_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>399</b><br />
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Brand 01 &#8211; My WordPress</title>
+	<atom:link href="https://hazhtaru.github.io/mywordpress/tu-khoa-san-pham/brand-01/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hazhtaru.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 13 Oct 2022 15:03:01 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Brand 01</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate></pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Hiển thị tất cả 8 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Hiển thị tất cả 8 kết quả</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
+					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
+					<option value="rating" >Thứ tự theo điểm đánh giá</option>
+					<option value="date" >Mới nhất</option>
+					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
+					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	</form>
+<ul class="products columns-4">
+<li class="product type-product post-1064 status-publish first instock product_cat-backyard-play product_cat-kids-storage product_cat-nursery-bedding product_cat-nursery-furniture product_tag-brand-01 product_tag-brand-02 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/baby-bassinet-for-infant/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/39.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Baby Bassinet for Infant</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>80.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/baby-bassinet-for-infant/?add-to-cart=1064" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1064" data-product_sku="0070" aria-label="Thêm &ldquo;Baby Bassinet for Infant&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-954 status-publish instock product_cat-heating-cooling product_cat-kitchen product_cat-kitchen-appliances product_tag-brand-01 product_tag-brand-02 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/30-450x450-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Hand Mixer Electric, 250W</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>60.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w/?add-to-cart=954" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="954" data-product_sku="0040" aria-label="Thêm &ldquo;Hand Mixer Electric, 250W&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1039 status-publish instock product_cat-bedroom product_cat-lighting product_cat-wall-decor product_tag-brand-01 product_tag-brand-02 has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/lamps-vintage-for-bedroom/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/5.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Lamps Vintage for Bedroom</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>120.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/lamps-vintage-for-bedroom/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="1039" data-product_sku="0057" aria-label="Lựa chọn cho &ldquo;Lamps Vintage for Bedroom&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
+<li class="product type-product post-1054 status-publish last instock product_cat-heating-cooling product_cat-vacuums-cleaners product_tag-brand-01 product_tag-brand-02 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/microwave-oven-from-italia/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/59-450x450-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Microwave Oven from Italia</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>250.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/microwave-oven-from-italia/?add-to-cart=1054" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1054" data-product_sku="0032" aria-label="Thêm &ldquo;Microwave Oven from Italia&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1083 status-publish first instock product_cat-bedroom product_cat-garden product_cat-kitchen product_cat-lighting product_tag-brand-01 product_tag-brand-02 product_tag-brand-07 product_tag-brand-08 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/modern-hanging-lamp-black/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Modern Hanging Lamp, Black</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>56.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/modern-hanging-lamp-black/?add-to-cart=1083" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1083" data-product_sku="0097" aria-label="Thêm &ldquo;Modern Hanging Lamp, Black&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1069 status-publish instock product_cat-bedding product_cat-bedroom product_cat-wall-decor product_tag-brand-01 product_tag-brand-02 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/oversized-mirror-full-length/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/49.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Oversized Mirror Full Length</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>330.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/oversized-mirror-full-length/?add-to-cart=1069" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1069" data-product_sku="0044" aria-label="Thêm &ldquo;Oversized Mirror Full Length&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+<li class="product type-product post-1011 status-publish instock product_cat-bedding product_cat-bedroom product_cat-living-room product_tag-brand-01 product_tag-brand-02 has-post-thumbnail featured shipping-taxable purchasable product-type-variable has-default-attributes">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/traditional-fabric-chair/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/27.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Traditional Fabric Chair</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>120.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/traditional-fabric-chair/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="1011" data-product_sku="0054" aria-label="Lựa chọn cho &ldquo;Traditional Fabric Chair&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
+<li class="product type-product post-1072 status-publish last instock product_cat-bedding product_cat-bedroom product_tag-brand-01 product_tag-brand-02 has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://hazhtaru.github.io/mywordpress/san-pham/upholstered-panel-bed/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/14.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Upholstered Panel Bed</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>300.00</bdi></span></span>
+</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/upholstered-panel-bed/?add-to-cart=1072" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1072" data-product_sku="0080" aria-label="Thêm &ldquo;Upholstered Panel Bed&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
