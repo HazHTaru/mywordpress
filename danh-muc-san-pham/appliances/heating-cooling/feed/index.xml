@@ -1,13 +1,3 @@
-<br />
-<b>Warning</b>:  Attempt to read property "post_author" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>393</b><br />
-<br />
-<b>Warning</b>:  Attempt to read property "post_date" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>396</b><br />
-<br />
-<b>Warning</b>:  Attempt to read property "post_date_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>397</b><br />
-<br />
-<b>Warning</b>:  Attempt to read property "post_modified" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>398</b><br />
-<br />
-<b>Warning</b>:  Attempt to read property "post_modified_gmt" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\woocommerce\includes\class-wc-template-loader.php</b> on line <b>399</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -22,7 +12,7 @@
 	<atom:link href="https://hazhtaru.github.io/mywordpress/danh-muc-san-pham/appliances/heating-cooling/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hazhtaru.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 13 Oct 2022 15:03:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Oct 2022 15:27:22 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,8 +23,8 @@
 		<title>Heating &#038; Cooling</title>
 		<link></link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate></pubDate>
+		<dc:creator><![CDATA[lyducloi]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 15:27:22 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Hiển thị tất cả 5 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự [&#8230;]]]></description>
