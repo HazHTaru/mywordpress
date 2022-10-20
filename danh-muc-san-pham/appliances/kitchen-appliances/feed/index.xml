@@ -12,67 +12,244 @@
 	<atom:link href="https://hazhtaru.github.io/mywordpress/danh-muc-san-pham/appliances/kitchen-appliances/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hazhtaru.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 13 Oct 2022 15:27:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 00:33:31 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
-		<title>Kitchen Appliances</title>
-		<link></link>
+		<title>Pro 830 Charcoal Grill</title>
+		<link>https://hazhtaru.github.io/mywordpress/san-pham/pro-830-charcoal-grill/</link>
+					<comments>https://hazhtaru.github.io/mywordpress/san-pham/pro-830-charcoal-grill/#respond</comments>
 		
 		<dc:creator><![CDATA[lyducloi]]></dc:creator>
-		<pubDate>Thu, 13 Oct 2022 15:27:22 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Thu, 13 Oct 2022 13:20:09 +0000</pubDate>
+				<guid isPermaLink="false">https://hazhtaru.github.io/mywordpress/?post_type=product&#038;p=1058</guid>
 
-					<description><![CDATA[Hiển thị tất cả 6 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 6 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-4">
-<li class="product type-product post-1057 status-publish first instock product_cat-kitchen-appliances product_cat-vacuums-cleaners product_cat-washers-dryers product_tag-brand-05 product_tag-brand-06 has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-	<a href="https://hazhtaru.github.io/mywordpress/san-pham/6-in-1-espresso-machine/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Giảm giá!</span>
-	<img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/29.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">6-in-1 Espresso Machine</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>150.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>90.00</bdi></span></ins></span>
-</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/6-in-1-espresso-machine/?add-to-cart=1057" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1057" data-product_sku="0056" aria-label="Thêm &ldquo;6-in-1 Espresso Machine&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-1055 status-publish instock product_cat-kitchen-appliances product_cat-vacuums-cleaners product_cat-washers-dryers product_tag-brand-07 product_tag-brand-08 has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://hazhtaru.github.io/mywordpress/san-pham/electric-double-oven-range/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/16-450x450-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Electric Double Oven Range</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>140.00</bdi></span></span>
-</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/electric-double-oven-range/?add-to-cart=1055" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1055" data-product_sku="0021" aria-label="Thêm &ldquo;Electric Double Oven Range&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-954 status-publish instock product_cat-heating-cooling product_cat-kitchen product_cat-kitchen-appliances product_tag-brand-01 product_tag-brand-02 has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/30-450x450-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Hand Mixer Electric, 250W</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>60.00</bdi></span></span>
-</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w/?add-to-cart=954" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="954" data-product_sku="0040" aria-label="Thêm &ldquo;Hand Mixer Electric, 250W&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-1058 status-publish last instock product_cat-garden product_cat-heating-cooling product_cat-kitchen-appliances product_cat-outdoor-patio product_tag-brand-07 product_tag-brand-08 has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-	<a href="https://hazhtaru.github.io/mywordpress/san-pham/pro-830-charcoal-grill/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Giảm giá!</span>
-	<img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/58-450x450-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Pro 830 Charcoal Grill</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>199.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>99.00</bdi></span></ins></span>
-</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/pro-830-charcoal-grill/?add-to-cart=1058" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1058" data-product_sku="0098" aria-label="Thêm &ldquo;Pro 830 Charcoal Grill&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-1056 status-publish first instock product_cat-heating-cooling product_cat-kitchen-appliances product_tag-brand-03 product_tag-brand-04 has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://hazhtaru.github.io/mywordpress/san-pham/professional-microwave-oven/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/52.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Professional Microwave Oven</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>250.00</bdi></span></span>
-</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/professional-microwave-oven/?add-to-cart=1056" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1056" data-product_sku="0008" aria-label="Thêm &ldquo;Professional Microwave Oven&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-981 status-publish instock product_cat-heating-cooling product_cat-kitchen-appliances product_cat-washers-dryers product_tag-brand-09 product_tag-brand-10 has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w-sao-chep/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://hazhtaru.github.io/mywordpress/wp-content/uploads/2022/10/51.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" /><h2 class="woocommerce-loop-product__title">Stand Mixer, 6-Speed</h2><div class="eael-star-rating star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>120.00</bdi></span></span>
-</a><a href="https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w-sao-chep/?add-to-cart=981" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="981" data-product_sku="0013" aria-label="Thêm &ldquo;Stand Mixer, 6-Speed&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
+					<description><![CDATA[<ul>
+ 	<li>
+<div><strong>Product Details</strong></div>
+<ul>
+ 	<li>Seating Capacity: 2</li>
+ 	<li>Weight Capacity: 550 lb.</li>
+ 	<li>Adult Assembly Required: Yes</li>
 </ul>
-</div>]]></content:encoded>
+</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>This conference chair is an ideal pick, whether you’re completing your home office or office conference room. It’s built with a metal frame and features a curved back that provides lumbar support. Open armrests offer additional support as you tackle your to-dos. The chair is upholstered in faux leather and is filled with foam for just the right amount of cushion. Subtle channel tufting on the back and seat create a tailored aesthetic. The star-shaped base has five bent legs with hooded casters that allow you to roll throughout your space. Plus, you can change the back angle, the height of the seat, and swivel a full 360.</p>
+<div><strong>Features</strong></div>
+<ul>
+<li>Maintenance free</li>
+<li>Weatherproof for all year round display</li>
+</ul>
+<div><strong>Product Details</strong></div>
+<ul>
+<li>Seating Capacity: 2</li>
+<li>Weight Capacity: 550 lb.</li>
+<li>Adult Assembly Required: Yes</li>
+<li>Cushions Included : No</li>
+</ul>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://hazhtaru.github.io/mywordpress/san-pham/pro-830-charcoal-grill/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>6-in-1 Espresso Machine</title>
+		<link>https://hazhtaru.github.io/mywordpress/san-pham/6-in-1-espresso-machine/</link>
+					<comments>https://hazhtaru.github.io/mywordpress/san-pham/6-in-1-espresso-machine/#respond</comments>
+		
+		<dc:creator><![CDATA[lyducloi]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 13:17:07 +0000</pubDate>
+				<guid isPermaLink="false">https://hazhtaru.github.io/mywordpress/?post_type=product&#038;p=1057</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>
+<div><strong>Product Details</strong></div>
+<ul>
+ 	<li>Seating Capacity: 2</li>
+ 	<li>Weight Capacity: 550 lb.</li>
+ 	<li>Adult Assembly Required: Yes</li>
+</ul>
+</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>This conference chair is an ideal pick, whether you’re completing your home office or office conference room. It’s built with a metal frame and features a curved back that provides lumbar support. Open armrests offer additional support as you tackle your to-dos. The chair is upholstered in faux leather and is filled with foam for just the right amount of cushion. Subtle channel tufting on the back and seat create a tailored aesthetic. The star-shaped base has five bent legs with hooded casters that allow you to roll throughout your space. Plus, you can change the back angle, the height of the seat, and swivel a full 360.</p>
+<div><strong>Features</strong></div>
+<ul>
+<li>Maintenance free</li>
+<li>Weatherproof for all year round display</li>
+</ul>
+<div><strong>Product Details</strong></div>
+<ul>
+<li>Seating Capacity: 2</li>
+<li>Weight Capacity: 550 lb.</li>
+<li>Adult Assembly Required: Yes</li>
+<li>Cushions Included : No</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hazhtaru.github.io/mywordpress/san-pham/6-in-1-espresso-machine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Professional Microwave Oven</title>
+		<link>https://hazhtaru.github.io/mywordpress/san-pham/professional-microwave-oven/</link>
+					<comments>https://hazhtaru.github.io/mywordpress/san-pham/professional-microwave-oven/#respond</comments>
+		
+		<dc:creator><![CDATA[lyducloi]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 13:13:27 +0000</pubDate>
+				<guid isPermaLink="false">https://hazhtaru.github.io/mywordpress/?post_type=product&#038;p=1056</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>
+<div><strong>Product Details</strong></div>
+<ul>
+ 	<li>Seating Capacity: 2</li>
+ 	<li>Weight Capacity: 550 lb.</li>
+ 	<li>Adult Assembly Required: Yes</li>
+</ul>
+</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>This conference chair is an ideal pick, whether you’re completing your home office or office conference room. It’s built with a metal frame and features a curved back that provides lumbar support. Open armrests offer additional support as you tackle your to-dos. The chair is upholstered in faux leather and is filled with foam for just the right amount of cushion. Subtle channel tufting on the back and seat create a tailored aesthetic. The star-shaped base has five bent legs with hooded casters that allow you to roll throughout your space. Plus, you can change the back angle, the height of the seat, and swivel a full 360.</p>
+<div><strong>Features</strong></div>
+<ul>
+<li>Maintenance free</li>
+<li>Weatherproof for all year round display</li>
+</ul>
+<div><strong>Product Details</strong></div>
+<ul>
+<li>Seating Capacity: 2</li>
+<li>Weight Capacity: 550 lb.</li>
+<li>Adult Assembly Required: Yes</li>
+<li>Cushions Included : No</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hazhtaru.github.io/mywordpress/san-pham/professional-microwave-oven/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Electric Double Oven Range</title>
+		<link>https://hazhtaru.github.io/mywordpress/san-pham/electric-double-oven-range/</link>
+					<comments>https://hazhtaru.github.io/mywordpress/san-pham/electric-double-oven-range/#respond</comments>
+		
+		<dc:creator><![CDATA[lyducloi]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 13:13:18 +0000</pubDate>
+				<guid isPermaLink="false">https://hazhtaru.github.io/mywordpress/?post_type=product&#038;p=1055</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>
+<div><strong>Product Details</strong></div>
+<ul>
+ 	<li>Seating Capacity: 2</li>
+ 	<li>Weight Capacity: 550 lb.</li>
+ 	<li>Adult Assembly Required: Yes</li>
+</ul>
+</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>This conference chair is an ideal pick, whether you’re completing your home office or office conference room. It’s built with a metal frame and features a curved back that provides lumbar support. Open armrests offer additional support as you tackle your to-dos. The chair is upholstered in faux leather and is filled with foam for just the right amount of cushion. Subtle channel tufting on the back and seat create a tailored aesthetic. The star-shaped base has five bent legs with hooded casters that allow you to roll throughout your space. Plus, you can change the back angle, the height of the seat, and swivel a full 360.</p>
+<div><strong>Features</strong></div>
+<ul>
+<li>Maintenance free</li>
+<li>Weatherproof for all year round display</li>
+</ul>
+<div><strong>Product Details</strong></div>
+<ul>
+<li>Seating Capacity: 2</li>
+<li>Weight Capacity: 550 lb.</li>
+<li>Adult Assembly Required: Yes</li>
+<li>Cushions Included : No</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hazhtaru.github.io/mywordpress/san-pham/electric-double-oven-range/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Stand Mixer, 6-Speed</title>
+		<link>https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w-sao-chep/</link>
+					<comments>https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w-sao-chep/#respond</comments>
+		
+		<dc:creator><![CDATA[lyducloi]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 03:10:00 +0000</pubDate>
+				<guid isPermaLink="false">https://hazhtaru.github.io/mywordpress/?post_type=product&#038;p=981</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>
+<div><strong>Product Details</strong></div>
+<ul>
+ 	<li>Seating Capacity: 2</li>
+ 	<li>Weight Capacity: 550 lb.</li>
+ 	<li>Adult Assembly Required: Yes</li>
+</ul>
+</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>This conference chair is an ideal pick, whether you’re completing your home office or office conference room. It’s built with a metal frame and features a curved back that provides lumbar support. Open armrests offer additional support as you tackle your to-dos. The chair is upholstered in faux leather and is filled with foam for just the right amount of cushion. Subtle channel tufting on the back and seat create a tailored aesthetic. The star-shaped base has five bent legs with hooded casters that allow you to roll throughout your space. Plus, you can change the back angle, the height of the seat, and swivel a full 360.</p>
+<div><strong>Features</strong></div>
+<ul>
+<li>Maintenance free</li>
+<li>Weatherproof for all year round display</li>
+</ul>
+<div><strong>Product Details</strong></div>
+<ul>
+<li>Seating Capacity: 2</li>
+<li>Weight Capacity: 550 lb.</li>
+<li>Adult Assembly Required: Yes</li>
+<li>Cushions Included : No</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w-sao-chep/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hand Mixer Electric, 250W</title>
+		<link>https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w/</link>
+					<comments>https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w/#respond</comments>
+		
+		<dc:creator><![CDATA[lyducloi]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 02:09:23 +0000</pubDate>
+				<guid isPermaLink="false">https://hazhtaru.github.io/mywordpress/?post_type=product&#038;p=954</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>
+<div><strong>Product Details</strong></div>
+<ul>
+ 	<li>Seating Capacity: 2</li>
+ 	<li>Weight Capacity: 550 lb.</li>
+ 	<li>Adult Assembly Required: Yes</li>
+</ul>
+</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>This conference chair is an ideal pick, whether you’re completing your home office or office conference room. It’s built with a metal frame and features a curved back that provides lumbar support. Open armrests offer additional support as you tackle your to-dos. The chair is upholstered in faux leather and is filled with foam for just the right amount of cushion. Subtle channel tufting on the back and seat create a tailored aesthetic. The star-shaped base has five bent legs with hooded casters that allow you to roll throughout your space. Plus, you can change the back angle, the height of the seat, and swivel a full 360.</p>
+<div><strong>Features</strong></div>
+<ul>
+<li>Maintenance free</li>
+<li>Weatherproof for all year round display</li>
+</ul>
+<div><strong>Product Details</strong></div>
+<ul>
+<li>Seating Capacity: 2</li>
+<li>Weight Capacity: 550 lb.</li>
+<li>Adult Assembly Required: Yes</li>
+<li>Cushions Included : No</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hazhtaru.github.io/mywordpress/san-pham/hand-mixer-electric-250w/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
